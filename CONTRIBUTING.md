@@ -1,4 +1,5 @@
 Contribute here to any problem with good code quality and comments for the logic
+you need atleast two ways/approaches for the particular questions to get reviewed and get accepted for PR.
 
 You can contribute by solving Following problems :-
 
